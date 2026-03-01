@@ -3,7 +3,7 @@
 using namespace std;
 
 //variable global
-string nama ;
+string adit ;
 
 int main(){ //program utama
     int age; //variable local
