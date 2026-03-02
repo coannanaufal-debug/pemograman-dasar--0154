@@ -16,3 +16,6 @@ float hitungluas(int r){
     return phi * r * r;
 }
 
+void output(){
+    cout << "hasilnya : " << hitungluas(r) << endl;
+}
