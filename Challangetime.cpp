@@ -19,3 +19,7 @@ float hitungluas(int r){
 void output(){
     cout << "hasilnya : " << hitungluas(r) << endl;
 }
+int main(){ 
+    input();
+    output();
+}
